@@ -1,4 +1,4 @@
-<h1>Front-End Website Development — Structured UI Implementation</h1>
+<h1>Front-End Website Development — Structured UI Implementation (Page 1) </h1>
 
 <h2>Description</h2>
 This project documents the front-end structure of a business website built with WordPress and Elementor. The focus was on page structure, layout, responsive behavior, and clear content hierarchy.
