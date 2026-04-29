@@ -21,7 +21,7 @@ This project documents the front-end structure of a business website built with 
 <li>WordPress CMS </li> 
   </ul>
 
-<h2>Project Overview</h2>
+<h2>Project Overview (Pages 2-6)</h2>
 <ul>
 <li>
   <a href="https://github.com/JorgeFSantillan/Semantic-Structure-and-Content-Hierarchy">
