@@ -3,7 +3,7 @@
 <h2>Description</h2>
 This project documents the front-end structure of a business website built with WordPress and Elementor. The focus was on page structure, layout, responsive behavior, and clear content hierarchy.
 
-> ⚠️ **Note:** For simplicity, this case study is limited to the homepage.
+> ⚠️ **Note:** For simplicity, this case study focuses on the homepage and selected areas of analysis.
 
 [View homepage screenshot](homepage.png)
 
@@ -31,7 +31,9 @@ This project documents the front-end structure of a business website built with 
 </ul>
 
 <h2>Semantic Structure & Content Hierarchy</h2>
-<p>The homepage hero section was reviewed using Chrome DevTools to understand how the page content is structured in the DOM.
+<p>The homepage hero section was used as an example and reviewed in Chrome DevTools to analyze how the content is structured in the DOM.
+  
+> DOM stands for Document Object Model.
 <br>
 The hero section follows a clear content flow:
 </p>
