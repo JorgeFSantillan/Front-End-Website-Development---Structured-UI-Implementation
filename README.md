@@ -3,6 +3,9 @@
 <h2>Description</h2>
 This project documents the front-end structure of a business website built with WordPress and Elementor. The focus was on page structure, layout, responsive behavior, and clear content hierarchy.
 
+> ⚠️ **Note:** For simplicity, this case study is limited to the homepage.
+
+[View homepage screenshot](homepage.png)
 
 <h2>Languages and Utilities Used</h2>
 <ul>
@@ -58,4 +61,4 @@ The important takeaway is that the visible content still follows a logical hiera
   
 ![Hero HTML Structure](hero-html-structure.png)
   
-DevTools view of the homepage hero section showing the main content container, heading structure, supporting text, and Elementor layout containers.
+> DevTools view of the homepage hero section showing the main content container, heading structure, supporting text, and Elementor layout containers.
