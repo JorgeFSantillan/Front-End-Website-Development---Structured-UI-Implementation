@@ -32,7 +32,11 @@ This project documents the front-end structure of a business website built with 
   <a href="https://github.com/JorgeFSantillan/Layout-System-Implementation">
     Layout System Implementation
   </a></li>    
-<li>Responsive design adjustments</li>    
+<li> 
+  <a href="https://github.com/JorgeFSantillan/Responsive-Design-Adjustments">
+    Responsive Design Adjustments
+  </a></li> 
+  
 <li>UI/UX principles and refinement </li>   
 <li>Visual consistency and branding  </li>  
 </ul>
