@@ -56,3 +56,4 @@ Creates the call-to-action area after the main message and supporting text.
 Because the page is built in WordPress with Elementor, much of the structure is generated through container-based &lt;div&gt;
 elements. These containers manage layout, spacing, animation, and responsive behavior. The important part is that the visible content still follows a logical hierarchy, making the hero section easier to scan, understand, and navigate.</p>
 
+![Govsera hero section](images/govsera-hero-section.png)
