@@ -25,10 +25,13 @@ This project documents the front-end structure of a business website built with 
 <ul>
 <li>
   <a href="https://github.com/JorgeFSantillan/Semantic-Structure-and-Content-Hierarchy">
-    Semantic structure and content hierarchy
+    Semantic Structure and Content Hierarchy
   </a>
 </li>  
-<li>Layout system implementation</li>    
+<li> 
+  <a href="https://github.com/JorgeFSantillan/Layout-System-Implementation">
+    Layout System Implementation
+  </a></li>    
 <li>Responsive design adjustments</li>    
 <li>UI/UX principles and refinement </li>   
 <li>Visual consistency and branding  </li>  
