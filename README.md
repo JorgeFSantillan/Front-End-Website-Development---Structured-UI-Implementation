@@ -34,26 +34,36 @@ Project consists of developing and structuring a website interface with a focus 
 
 <h4>Key HTML Structure Reviewed</h4>
 <ul>
-<li><main id="main" class="site-main"></li>
+<li>&lt;main id="main" class="site-main"&gt;</li>
 Shows that the hero content is placed inside the main page content area.
-<li><article class="page"></li>
+  <br>
+<li>&lt;article class="page"&gt;</li>
 Shows that the CMS treats the page as a structured content object.
-<li><div class="elementor-element ... e-con ..."></li>
+  <br>
+<li>&lt;div class="elementor-element ... e-con ..."&gt;</li>
 Elementor container used for layout, spacing, alignment, and responsive behavior.
-<li><h1 class="elementor-heading-title"></li>
+  <br>
+<li>&lt;h1 class="elementor-heading-title"&gt;</li>
 Establishes the main page message and top-level content hierarchy.
-<span style="color: #1282A2">
+  <br>
+<li>&lt;span style="color: #1282A2"&gt;</li>
 Adds visual emphasis to part of the heading using the brand color.
-<li><p>
+  <br>
+<li>&lt;p&gt;</li>
 Provides supporting copy under the main heading.
-<li>elementor-widget-button
+  <br>
+<li>&lt;elementor-widget-button&gt;</li>
 Creates the call-to-action area after the main message and supporting text.
+  <br>
 </ul>
 <h4>Case Study Explanation</h4>
-<p>The hero section uses a clear content hierarchy: primary headline, supporting statement, and call-to-action. The h1 establishes the main message of the page, while the paragraph underneath adds context. The call-to-action follows the supporting text to guide the user toward the next step.
+<p>The hero section uses a clear content hierarchy: primary headline, supporting statement, and call-to-action. The &lt;h1&gt; establishes the main message of the page, while the paragraph underneath adds context. The call-to-action follows the supporting text to guide the user toward the next step.
 <br>
 <br>
 Because the page is built in WordPress with Elementor, much of the structure is generated through container-based &lt;div&gt;
 elements. These containers manage layout, spacing, animation, and responsive behavior. The important part is that the visible content still follows a logical hierarchy, making the hero section easier to scan, understand, and navigate.</p>
-
-![Govsera hero section](images/govsera-hero-section.png)
+<br>
+  
+![Hero HTML Structure](hero-html-structure.png)
+  
+DevTools view of the homepage hero section showing the main content container, heading structure, supporting text, and Elementor layout containers.
