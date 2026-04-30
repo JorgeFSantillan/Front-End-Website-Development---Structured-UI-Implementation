@@ -3,7 +3,12 @@
 <h2>Description</h2>
 This project documents the front-end structure of a business website (govsera.com) built with WordPress and Elementor. The focus was on page structure, layout, responsive behavior, and clear content hierarchy.
 
+<br>
+<br>
+
 > ⚠️ **Note:** For simplicity, this case study focuses on the homepage and selected areas of analysis.
+
+<br>
 
 [View homepage screenshot](homepage.png)
 
