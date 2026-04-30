@@ -1,7 +1,7 @@
 <h1>Front-End Website Development — Structured UI Implementation (Page 1) </h1>
 
 <h2>Description</h2>
-This project documents the front-end structure of a business website built with WordPress and Elementor. The focus was on page structure, layout, responsive behavior, and clear content hierarchy.
+This project documents the front-end structure of a business website (govsera.com) built with WordPress and Elementor. The focus was on page structure, layout, responsive behavior, and clear content hierarchy.
 
 > ⚠️ **Note:** For simplicity, this case study focuses on the homepage and selected areas of analysis.
 
