@@ -15,8 +15,7 @@ This project documents the front-end structure of a business website (govsera.co
 <h2>Languages and Utilities Used</h2>
 <ul>
 <li>HTML structure</li>  
-<li>CSS layout and styling</li>   
-<li>JavaScript fundamentals</li>  
+<li>CSS layout and styling</li>     
 <li>WordPress / Elementor</li>  
 </ul>
 
